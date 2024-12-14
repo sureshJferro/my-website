@@ -43,7 +43,7 @@ export default {
     'SwamiSaranam/anjumalai_azhaga_ayyya',
     'SwamiSaranam/villali_veeran_ayya',
     'SwamiSaranam/antha_vaaraa_ayya',
-    'SwamiSaranam/odiva_ayya_odaivaa',
+    'SwamiSaranam/odiva_ayya_odaivaa_samy',
     'SwamiSaranam/annadaan_prabhuve_saranam_ayyappa',
     'SwamiSaranam/odivaa_ayya_odaivaa',
     'SwamiSaranam/vaa_anga_vaa_sabari_malayakku_vaa',
