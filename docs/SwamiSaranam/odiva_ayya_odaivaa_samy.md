@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'ஓடிவா ஐயப்பா ஓடிவா'
+sidebar_label: 'ஓடிவா ஐயப்பா ஓடிவா சுவாமி'
 sidebar_position: 11
 ---
 
