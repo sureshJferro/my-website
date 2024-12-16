@@ -50,6 +50,13 @@ export default {
     'SwamiSaranam/engae_manakudhu',
     'SwamiSaranam/harivarasanam',
     'SwamiSaranam/malaiya_maliazhaga',
-    'SwamiSaranam/kannalae_parumaiya'
+    'SwamiSaranam/kannalae_parumaiya',
+    'SwamiSaranam/sannadhiyil_kattamkatti',
+    'SwamiSaranam/Samy_Samy_iyappa',
+    'SwamiSaranam/ethana_piravigal_eduthalum',
+    'SwamiSaranam/ganesha_charanam',
+    'SwamiSaranam/alaikatuma_samy_alaikatuma',
+    'SwamiSaranam/athisesha',
+    'SwamiSaranam/vatta_nalla_pottu_vachu'
   ],
 };
