@@ -58,6 +58,7 @@ export default {
     'SwamiSaranam/alaikatuma_samy_alaikatuma',
     'SwamiSaranam/athisesha',
     'SwamiSaranam/vatta_nalla_pottu_vachu',
-    'SwamiSaranam/ennalum_unnamam'
+    'SwamiSaranam/ennalum_unnamam',
+    'SwamiSaranam/indha_kana_karunkuzhil'
   ],
 };
