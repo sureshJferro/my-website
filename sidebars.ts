@@ -57,6 +57,7 @@ export default {
     'SwamiSaranam/ganesha_charanam',
     'SwamiSaranam/alaikatuma_samy_alaikatuma',
     'SwamiSaranam/athisesha',
-    'SwamiSaranam/vatta_nalla_pottu_vachu'
+    'SwamiSaranam/vatta_nalla_pottu_vachu',
+    'SwamiSaranam/ennalum_unnamam'
   ],
 };
