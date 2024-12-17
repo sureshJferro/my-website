@@ -60,6 +60,7 @@ export default {
     'SwamiSaranam/vatta_nalla_pottu_vachu',
     'SwamiSaranam/ennalum_unnamam',
     'SwamiSaranam/indha_kana_karunkuzhil',
-    'SwamiSaranam/karupu_uoruvam_pondavaram'
+    'SwamiSaranam/karupu_uoruvam_pondavaram',
+    'SwamiSaranam/enga_karupasamy'
   ],
 };
