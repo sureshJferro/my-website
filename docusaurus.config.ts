@@ -62,14 +62,14 @@ const config: Config = {
       //title: 'KPCAPI',
       logo: {
         alt: 'Swami Ayaappa',
-        src: 'img/logo.svg',
+        src: 'img/logo2.svg',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'IyappanSongs',
         },
         //{to: '/blog', label: 'Blog', position: 'left'},
         // {
