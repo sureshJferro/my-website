@@ -63,6 +63,7 @@ export default {
     'SwamiSaranam/karupu_uoruvam_pondavaram',
     'SwamiSaranam/enga_karupasamy',
     'SwamiSaranam/samayapura_mariyamma',
-     'SwamiSaranam/gurusamy'
+    'SwamiSaranam/gurusamy',
+    'SwamiSaranam/bala_bala'
   ],
 };
