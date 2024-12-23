@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'கருப்பு வடிவம் பூண்டவராம்'
-sidebar_position: 25
+sidebar_position: 2
 ---
 
 # **கருப்பு வடிவம் பூண்டவராம்**

@@ -31,7 +31,6 @@ const sidebars: SidebarsConfig = {
 //export default sidebars;
 
 export default {
-  
   tutorialSidebar: [
     'SwamiSaranam/kannimoola_ganapathi',
     'SwamiSaranam/bagavaan_saranam_bagavathi_saranam',
@@ -60,8 +59,6 @@ export default {
     'SwamiSaranam/vatta_nalla_pottu_vachu',
     'SwamiSaranam/ennalum_unnamam',
     'SwamiSaranam/indha_kana_karunkuzhil',
-    'SwamiSaranam/karupu_uoruvam_pondavaram',
-    'SwamiSaranam/enga_karupasamy',
     'SwamiSaranam/samayapura_mariyamma',
     'SwamiSaranam/gurusamy',
     'SwamiSaranam/bala_bala',
@@ -71,4 +68,10 @@ export default {
     'SwamiSaranam/villali_veeranaee',
     'SwamiSaranam/sannadhiyil_kattumkatti_vandhomappa_iyappa'
   ],
+  tutorialSidebar1: [
+    'Karupasamy/karupu_uoruvam_pondavaram',
+    'Karupasamy/enga_karupasamy',
+    'Karupasamy/anga_idi_mulangudhu',
+    'Karupasamy/karupan_alaipu'
+  ]
 };
