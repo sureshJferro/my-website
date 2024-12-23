@@ -68,6 +68,7 @@ export default {
     'SwamiSaranam/kattu_vali',
     'SwamiSaranam/ana_puli',
     'SwamiSaranam/kattoda_kattumudi',
-    'SwamiSaranam/villali_veeranaee'
+    'SwamiSaranam/villali_veeranaee',
+    'SwamiSaranam/sannadhiyil_kattumkatti_vandhomappa_iyappa'
   ],
 };
