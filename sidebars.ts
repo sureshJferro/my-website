@@ -66,7 +66,8 @@ export default {
     'SwamiSaranam/ana_puli',
     'SwamiSaranam/kattoda_kattumudi',
     'SwamiSaranam/villali_veeranaee',
-    'SwamiSaranam/sannadhiyil_kattumkatti_vandhomappa_iyappa'
+    'SwamiSaranam/sannadhiyil_kattumkatti_vandhomappa_iyappa',
+    'SwamiSaranam/samiyappa_samiyappa'
   ],
   tutorialSidebar1: [
     'Karupasamy/karupu_uoruvam_pondavaram',
