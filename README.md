@@ -1,41 +1,55 @@
-# Website
+# 🎵 Iyappan Songs Static Site
+A Docusaurus-powered static site featuring devotional songs of Lord Iyappan
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+🔗 Live Site: [Iyappan Songs](https://iyappansongs.onrender.com)
 
-### Installation
+# 🚀 Features</br>
+✅ Docusaurus-based for easy content management</br>
+✅ Static hosting on Render for smooth deployment</br>
+✅ Devotional Songs Collection categorized for easy access</br>
+✅ Search functionality for quick song lookup</br>
+✅ Mobile-friendly UI for an optimal experience</br>
 
-```
-$ yarn
-```
+# 🛠 Installation & Setup</br>
+Prerequisites</br>
+📌 Node.js (v16 or later recommended)</br>
+📌 Yarn or npm</br>
 
-### Local Development
+Steps to Run Locally</br>
 
-```
-$ yarn start
-```
+# Clone the repository </br>
+git clone <repository-url></br>
+cd iyappan-songs</br>
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+# Install dependencies </br>
+yarn install  # or npm install</br>
 
-### Build
+# Start the development server</br>
+yarn start  # or npm run start</br>
+🔗 Open http://localhost:3000 in your browser</br>
 
-```
-$ yarn build
-```
+# 📦 Building the Static Site</br>
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+yarn build  # or npm run build</br>
+✅ The static files will be generated in the build/ directory</br>
 
-### Deployment
+# 🚀 Deployment</br>
+This site is deployed on Render. To deploy:</br>
+1️⃣ Push changes to the repository</br>
+2️⃣ Render auto-detects & deploys updates</br>
+3️⃣ Or manually deploy:</br>
 
-Using SSH:
+yarn deploy  # or npm run deploy</br>
 
-```
-$ USE_SSH=true yarn deploy
-```
+# 🤝 Contributing</br>
 
-Not using SSH:
+We welcome contributions! To contribute:</br>
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+Fork the repository</br>
+Create a feature branch (feature-branch)</br>
+Commit your changes</br>
+Submit a Pull Request (PR)</br>
+# 📜 License</br>
+📝 This project is licensed under the MIT License</br>
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+🙏 Swamiye Saranam Ayyappa! 🙏
